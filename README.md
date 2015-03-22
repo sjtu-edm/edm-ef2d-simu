@@ -5,9 +5,13 @@
 - Github is a good platform for collaborative coding. Everyone should learn how to use that.
 - Use `git clone` to clone the repo to the local disk
 - add your individual user name to .git/config, where you should change
+
 > https://github.com/sjtu-edm/edm-ef2d-simu
+
 to
+
 > https://YourUserName@github.com/sjtu-edm/edm-ef2d-simu
+
 - Five commands are enough
 	- `git clone`
 	Copy repo to local file
