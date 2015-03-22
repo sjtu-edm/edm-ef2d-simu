@@ -9,16 +9,16 @@
 to
 > https://YourUserName@github.com/sjtu-edm/edm-ef2d-simu
 - Five commands are enough
-++ `git clone`
-copy repo to local file
-++ `git add`
-add new files online, but not take effect at the moment
-++ `git commit -m 'Commit Message'`
-add commitments to the files added after previous commitment
-++ `git push`
-Upload files online
-++ `git pull`
-Download files
+	- `git clone`
+	Copy repo to local file
+	- `git add`
+	Add new files online, but not take effect at the moment
+	- `git commit -m 'Commit Message'`
+	Add commitments to the files added after previous commitment
+	- `git push`
+	Upload files online
+	- `git pull`
+	Download files
 
 ## Programs illustrations
 Someone helps me for that.
