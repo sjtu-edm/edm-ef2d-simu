@@ -1,4 +1,5 @@
 # EDM Electric Field 2-dim Simulation MATLAB Codes
+
 ## A simple toturial for github settings
 - Please go to Github.com to sign up individual accounts. Prof. Pei will add individual accounts to the contributor list.
 - Github is a good platform for collaborative coding. Everyone should learn how to use that.
@@ -8,17 +9,19 @@
 to
 > https://YourUserName@github.com/sjtu-edm/edm-ef2d-simu
 - Five commands are enough
--- `git clone`
+++ `git clone`
 copy repo to local file
--- `git add`
+++ `git add`
 add new files online, but not take effect at the moment
--- `git commit -m 'Commit Message'`
+++ `git commit -m 'Commit Message'`
 add commitments to the files added after previous commitment
--- `git push`
+++ `git push`
 Upload files online
--- `git pull`
+++ `git pull`
 Download files
+
 ## Programs illustrations
-Someone helps me for that
+Someone helps me for that.
+
 ## Contact
-Anything about Github, feel free to contact me via email du99@purdue.edu
+Anything about Github, feel free to contact me via email du99@purdue.edu.
